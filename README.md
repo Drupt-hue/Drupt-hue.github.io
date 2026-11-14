@@ -1,4 +1,4 @@
-# Drupt Mahajan | Portfolio
+# Drupt Mahajan Portfolio
 
 Personal portfolio website built as part of CSU2215 Introduction to Git and GitHub at Shoolini University.
 
